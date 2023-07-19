@@ -1,0 +1,15 @@
+/Users/fer/Documents/Desarrollo/NETRepository/MyPersonalNET6Project/bin/Debug/net7.0/MyPersonalNet6Project
+/Users/fer/Documents/Desarrollo/NETRepository/MyPersonalNET6Project/bin/Debug/net7.0/MyPersonalNet6Project.deps.json
+/Users/fer/Documents/Desarrollo/NETRepository/MyPersonalNET6Project/bin/Debug/net7.0/MyPersonalNet6Project.runtimeconfig.json
+/Users/fer/Documents/Desarrollo/NETRepository/MyPersonalNET6Project/bin/Debug/net7.0/MyPersonalNet6Project.dll
+/Users/fer/Documents/Desarrollo/NETRepository/MyPersonalNET6Project/bin/Debug/net7.0/MyPersonalNet6Project.pdb
+/Users/fer/Documents/Desarrollo/NETRepository/MyPersonalNET6Project/obj/Debug/net7.0/MyPersonalNet6Project.csproj.AssemblyReference.cache
+/Users/fer/Documents/Desarrollo/NETRepository/MyPersonalNET6Project/obj/Debug/net7.0/MyPersonalNet6Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fer/Documents/Desarrollo/NETRepository/MyPersonalNET6Project/obj/Debug/net7.0/MyPersonalNet6Project.AssemblyInfoInputs.cache
+/Users/fer/Documents/Desarrollo/NETRepository/MyPersonalNET6Project/obj/Debug/net7.0/MyPersonalNet6Project.AssemblyInfo.cs
+/Users/fer/Documents/Desarrollo/NETRepository/MyPersonalNET6Project/obj/Debug/net7.0/MyPersonalNet6Project.csproj.CoreCompileInputs.cache
+/Users/fer/Documents/Desarrollo/NETRepository/MyPersonalNET6Project/obj/Debug/net7.0/MyPersonalNet6Project.dll
+/Users/fer/Documents/Desarrollo/NETRepository/MyPersonalNET6Project/obj/Debug/net7.0/refint/MyPersonalNet6Project.dll
+/Users/fer/Documents/Desarrollo/NETRepository/MyPersonalNET6Project/obj/Debug/net7.0/MyPersonalNet6Project.pdb
+/Users/fer/Documents/Desarrollo/NETRepository/MyPersonalNET6Project/obj/Debug/net7.0/MyPersonalNet6Project.genruntimeconfig.cache
+/Users/fer/Documents/Desarrollo/NETRepository/MyPersonalNET6Project/obj/Debug/net7.0/ref/MyPersonalNet6Project.dll
